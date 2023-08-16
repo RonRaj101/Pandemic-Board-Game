@@ -1,0 +1,48 @@
+Atlanta;1
+Chicago;1
+San Francisco;1
+Montreal;1
+Washington;1
+New York;1
+London;1
+Madrid;1
+Essen;1
+Paris;1
+Milan;1
+St. Petersburg;1
+Los Angeles;2
+Mexico City;2
+Lima;2
+Santiago;2
+Miami;2
+Bogota;2
+Buenos Aires;2
+Sao Paulo;2
+Lagos;2
+Kinshasa;2
+Khartoum;2
+Johannesburg;2
+Algiers;3
+Istanbul;3
+Cairo;3
+Moscow;3
+Baghdad;3
+Riyadh;3
+Tehran;3
+Karachi;3
+Mumbai;3
+Delhi;3
+Kolkata;3
+Chennai;3
+Bangkok;3
+Jakarta;4
+Beijing;4
+Shanghai;4
+Hong Kong;4
+Ho Chi Minh City;4
+Seoul;4
+Taipei;4
+Manila;4
+Sydney;4
+Tokyo;4
+Osaka;4
